@@ -24,7 +24,7 @@ click==7.1.2
 cloudpickle==1.6.0
 configparser==3.7.4
 contextlib2==0.6.0.post1
-cryptography==3.1
+cryptography==3.3.2
 dill==0.3.2
 distro==1.5.0
 docker==4.3.1
@@ -56,7 +56,7 @@ portalocker==1.7.1
 pyarrow==1.0.1
 pyasn1==0.4.8
 pycparser==2.20
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyOpenSSL==19.1.0
 python-dateutil==2.8.1
 pytz==2020.1
@@ -67,7 +67,7 @@ ruamel.yaml==0.16.10
 ruamel.yaml.clib==0.2.0
 SecretStorage==3.1.2
 six==1.15.0
-urllib3==1.25.10
+urllib3==1.26.5
 websocket-client==0.57.0
 Werkzeug==0.16.1
 zipp==3.1.0
