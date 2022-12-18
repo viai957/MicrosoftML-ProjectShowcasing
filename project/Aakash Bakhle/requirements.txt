@@ -3,5 +3,5 @@ fastai==2.0.0
 numpy==1.19.1
 Pillow==7.2.0
 streamlit==0.65.2
-torch==1.6.0
+torch==1.13.1
 
