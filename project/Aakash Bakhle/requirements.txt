@@ -1,7 +1,8 @@
 pretrainedmodels==0.7.4
 fastai==2.0.0
-numpy==1.19.1
+numpy==1.22.2
 Pillow==7.2.0
 streamlit==0.65.2
 torch==1.6.0
 
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
