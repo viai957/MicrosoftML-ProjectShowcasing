@@ -29,7 +29,7 @@ dill==0.3.2
 distro==1.5.0
 docker==4.3.1
 dotnetcore2==2.1.14
-Flask==1.0.3
+Flask==2.2.5
 fusepy==3.0.1
 gunicorn==19.9.0
 idna==2.10
