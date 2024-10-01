@@ -1,7 +1,15 @@
 pretrainedmodels==0.7.4
 fastai==2.0.0
-numpy==1.19.1
-Pillow==7.2.0
-streamlit==0.65.2
-torch==1.6.0
+numpy==1.22.2
+Pillow==10.3.0
+streamlit==1.37.0
+torch==2.2.0
 
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
+pyarrow>=14.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
+scikit-learn>=1.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
+validators>=0.21.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
